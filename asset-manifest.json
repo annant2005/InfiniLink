@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InfiniLink/static/css/main.d5af2f0b.css",
+    "main.js": "/InfiniLink/static/js/main.6fdb7363.js",
+    "static/js/453.84735f90.chunk.js": "/InfiniLink/static/js/453.84735f90.chunk.js",
+    "index.html": "/InfiniLink/index.html",
+    "main.d5af2f0b.css.map": "/InfiniLink/static/css/main.d5af2f0b.css.map",
+    "main.6fdb7363.js.map": "/InfiniLink/static/js/main.6fdb7363.js.map",
+    "453.84735f90.chunk.js.map": "/InfiniLink/static/js/453.84735f90.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5af2f0b.css",
+    "static/js/main.6fdb7363.js"
+  ]
+}
