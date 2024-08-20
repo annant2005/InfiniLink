@@ -144,10 +144,12 @@ p {
   color: white;
   background: #0bf69c;
   align-self: flex-end;
+  word-wrap: break-word;
 }
 .received p {
   background: #e5e5ea;
   color: black;
+  word-wrap: break-word;
 }
 
 img {
