@@ -1,6 +1,6 @@
 
 body {
-  background-image: url('C:\New folder\react\message\chat\src\download.jpeg');
+  background-color:#7EACB5;
   
 }
 
@@ -39,7 +39,7 @@ h1{
   flex-direction: column;
   justify-content: center;
   min-height: 100vh;
-  background-image: url('C:\New folder\react\message\chat\src\sky.jpg');
+  background-color:#825B32;
 }
 
 main {
